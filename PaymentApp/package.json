@@ -1,6 +1,9 @@
 {
   "name": "payment-app",
   "version": "0.0.0",
+  "engines": {
+    "node": "14.18.1"
+  },
   "scripts": {
     "ng": "ng",
     "start": "node server.js",
